@@ -23,6 +23,7 @@ I’m especially interested in the intersection of **Machine Learning, distribut
 
 * Python
 * C++
+* Java
 * SQL
 
 ### ⚙️ Backend & Tools
@@ -38,7 +39,7 @@ I’m especially interested in the intersection of **Machine Learning, distribut
 
 ### 📊 Data Science & ML
 
-* TensorFlow
+* TensorFlow, Keras
 * Pandas
 * NumPy
 * Scikit-learn
@@ -64,19 +65,9 @@ Repository with algorithm and data structure solutions in C++.
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default" height="150"/>
-</p>
-
----
-
 ## 📫 Contact
 
-* ✉️ Email: [your_email@example.com](mailto:your_email@example.com)
-* 💼 LinkedIn: https://linkedin.com/in/your-linkedin
+* ✉️ Email: [rodrigognunez8@gmail.com](mailto:rodrigognunez8@gmail.com)
 
 ---
 
@@ -85,3 +76,4 @@ Repository with algorithm and data structure solutions in C++.
 * Distributed systems
 * MLOps
 * Scalable architectures
+* CI/CD

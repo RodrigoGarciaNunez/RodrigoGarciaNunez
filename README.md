@@ -1,79 +1,76 @@
-# 👋 Hi, I'm Rodrigo García
+👋
+Hi! My name is:
+Rodrigo García N.
+Waving Hand Animation?
 
-🎯 Junior Developer | Data Science | Cloud & Backend
-📍 Mexico
+No
+💡
+Subtitle:
+Computer Engineer
+✏️
+Long Description:
+I’m a developer focused on building backend systems and data-driven projects.
+I’m especially interested in the intersection of Machine Learning, distributed systems, and cloud computing.
+
+About me
+🌍
+I'm based in:
+Mexico City 
+🖥️
+See my portfolio:
+MyPortfolio
+http://
+myapp.com
+✉️
+Contact me at:
+rodrigognunez8@gmail.com
+🚀
+I'm currently working on:
+MyApp
+http://
+(s)://myapp.com
+🧠
+I'm currently learning:
+Pybind11
+🤝
+I'm open to collaborating on:
+interesting projects
+⚡
+Anything else:
+I'm secretly Spiderman... but don't tell anyone
+
+Next
+Reorder Sections
+Preview
+Markdown
+Copy
+Hi 👋 My name is Rodrigo García N.
+==================================
+
+Computer Engineer
+-----------------
 
 I’m a developer focused on building backend systems and data-driven projects.
-I’m especially interested in the intersection of **Machine Learning, distributed systems, and cloud computing**.
 
----
+I’m especially interested in the intersection of Machine Learning, distributed systems, and cloud computing.
 
-## 🚀 About Me
+* 🌍  I'm based in Mexico City
+* ✉️  You can contact me at [rodrigognunez8@gmail.com](mailto:rodrigognunez8@gmail.com)
+* 🧠  I'm currently learning Pybind11
 
-* 💻 Experience with backend development, containers, and deployments
-* 📊 Strong interest in Data Science and Machine Learning
-* ☁️ Hands-on experience with cloud services (mainly GCP)
-* ⚙️ Focused on writing clean, scalable, and maintainable code
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" alt="rlang" title="rlang" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" alt="Flask" title="Flask" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" alt="Oracle" title="Oracle" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a>
+</p>
 
----
+### Socials
 
-## 🛠️ Tech Stack
+<p align="left"> <a href="https://www.github.com/RodrigoGarciaNunez" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
+### Badges
 
-### 👨‍💻 Languages
+<b>My GitHub Stats</b>
 
-* Python
-* C++
-* Java
-* SQL
+<a href="http://www.github.com/RodrigoGarciaNunez"><img src="https://github-readme-stats.vercel.app/api?username=RodrigoGarciaNunez&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="RodrigoGarciaNunez's GitHub stats" /></a>
 
-### ⚙️ Backend & Tools
+<a href="http://www.github.com/RodrigoGarciaNunez"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoGarciaNunez&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-* Docker / Docker-Compose
-* NGINX
-* Git & GitHub
-* Linux
-
-### ☁️ Cloud
-
-* Google Cloud Platform (Cloud Run, Firebase)
-
-### 📊 Data Science & ML
-
-* TensorFlow, Keras
-* Pandas
-* NumPy
-* Scikit-learn
-
----
-
-## 📌 Featured Projects
-
-🔹 **F1 Grid Predictor**
-Machine Learning model to predict Formula 1 grid positions using FastF1 and TensorFlow.
-
-* **F1 Grid Results**
-Small terminal API to get the results of all F1 sessions using FastApi, Rich, and FastF1.
-
-🔹 **Firebase + Cloud Run Skin-Cancer Classifier System**
-Serverless app to Classify Skin Cancer diagnosis with images and metadata using the functional API of TensorFlow, CV2, Google Cloud Run.
-
-🔹 **Passive Teacher APP**
-App designed to send random cheatsheets about CS topics every day in order to improve passive learning, using NGINX, Selenim, Flask, etc.
-
-🔹 **LeetCode Solutions**
-Repository with algorithm and data structure solutions in C++.
-
----
-
-## 📫 Contact
-
-* ✉️ Email: [rodrigognunez8@gmail.com](mailto:rodrigognunez8@gmail.com)
-
----
-
-## ⚡ Currently Learning
-
-* Distributed systems
-* MLOps
-* Scalable architectures
-* CI/CD
+<a href="https://github.com/RodrigoGarciaNunez" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoGarciaNunez&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
